@@ -1,6 +1,8 @@
 mars.txt
 -- 
 
+Introduction to the planet Mars:
+
 Mars is a red planet, with water. But frozen.
 
 Mars is just inside the Goldilocks zone... I think.
